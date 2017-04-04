@@ -19,7 +19,10 @@ Topics will be presented in weekly 3-hour modules mixing lectures and hands-on e
 
 ### Venue
 
-Fridays 08:30-11:30 in Bren 1424
+Fridays 08:30-11:30 in Bren 1424, except:
+
+- Friday 07 Apr meets in Bren 4016
+- Monday 24 Apr meets at 5:00-8:00 pm
 
 ## Syllabus
 
@@ -28,7 +31,7 @@ Fridays 08:30-11:30 in Bren 1424
 | 1 | 07 Apr | JF | software installation; Git; Markdown |
 | 2 | | | NO MEETING (NT out of town) |
 | 3 | | | NO MEETING (Bren GP presentations) |
-| 4 | 24 Apr (5-8 PM) | NT | R introduction; Rmarkdown |
+| 4 | 24 Apr | NT | R introduction; Rmarkdown |
 | 4 | 28 Apr | JF | data ingest |
 | 5 | 05 May | JF | data cleaning |
 | 6 | 12 May | NT | visualization; ggplot |
