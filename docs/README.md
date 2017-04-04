@@ -26,8 +26,9 @@ Fridays 08:30-11:30 in Bren 1424
 | week | date | instructor | topics |
 | --- | --- | --- | --- |
 | 1 | 07 Apr | JF | software installation; Git; Markdown |
-| 2 | 14 Apr<sup>*</sup> | NT | R introduction; Rmarkdown |
-| 3 | (21 Apr) | | NO MEETING (Bren GP presentations) |
+| 2 | | | NO MEETING (NT out of town) |
+| 3 | | | NO MEETING (Bren GP presentations) |
+| 4 | 24 Apr (5-8 PM) | NT | R introduction; Rmarkdown |
 | 4 | 28 Apr | JF | data ingest |
 | 5 | 05 May | JF | data cleaning |
 | 6 | 12 May | NT | visualization; ggplot |
