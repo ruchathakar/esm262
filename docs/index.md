@@ -17,25 +17,26 @@ Topics will be presented in weekly 3-hour modules mixing lectures and hands-on e
 - [James Frew](http://frew.eri.ucsb.edu/) [JF] <frew@ucsb.edu>  
   Office hours: [by appointment](mailto:frew@ucsb.edu?subject=appointment%20request)
 
-### Venue
+### Class meetings
 
-Fridays 08:30-11:30 in Bren 1424, except:
+Fridays 08:30-11:30 in Bren 1424, **except**:
 
 - Friday 07 Apr meets in Bren 4016
+- no meetings during weeks of
+  - 10–14 Apr (NT out of town)
+  - 17–21 Apr (GP presentations)
 - Monday 24 Apr meets at 5:00-8:00 pm
 
 ## Syllabus
 
-| week | date   | instructor | topics                                   |
-| ---- | ------ | ---------- | ---------------------------------------- |
-| 1    | 07 Apr | JF         | software installation; Git; Markdown     |
-| 2    |        |            | NO MEETING (NT out of town)              |
-| 3    |        |            | NO MEETING (Bren GP presentations)       |
-| 4    | 24 Apr | NT         | R introduction; Rmarkdown                |
-| 4    | 28 Apr | JF         | data ingest                              |
-| 5    | 05 May | JF         | data cleaning                            |
-| 6    | 12 May | NT         | visualization; ggplot                    |
-| 7    | 19 May | NT         | software engineering; R functions & modules |
-| 8    | 26 May | NT         | software testing & documentation         |
-| 9    | 02 May | JF         | publishing interactive data; shiny       |
-| 10   | 09 Jun | JF         | spatial R                                |
+| meeting | date   | instructor | topics                                   |
+| ------- | ------ | ---------- | ---------------------------------------- |
+| 1       | 07 Apr | JF         | software installation; Git; Markdown     |
+| 2       | 24 Apr | NT         | R introduction; Rmarkdown                |
+| 3       | 28 Apr | JF         | data ingest                              |
+| 4       | 05 May | JF         | data cleaning                            |
+| 5       | 12 May | NT         | visualization; ggplot                    |
+| 6       | 19 May | NT         | software engineering; R functions & modules |
+| 7       | 26 May | NT         | software testing & documentation         |
+| 8       | 02 May | JF         | publishing interactive data; shiny       |
+| 9       | 09 Jun | JF         | spatial R                                |
