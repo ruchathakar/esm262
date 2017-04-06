@@ -1,9 +1,3 @@
----
-title: "Computing for Environmental Science and Management"
-subtitle: ESM 262 (Spring 2017)
-layout: default
----
-
 ## Overview
 
 ESM 262 is an introduction to computing for environmental applications. Topics include: the basic computing environment (hardware and operating systems); programming language concepts; program design; data management, data structures and their implementation; software tools; workflows, version control, and reproducibility; generic analytical techniques (relational algebra, graphical analysis, visualization, etc.); and specific characteristics of environmental information. The course features **R** for programming, **Git** for version control, **Markdown** for documentation, and **GitHub** for collaboration and publishing.
