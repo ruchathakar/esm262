@@ -1,1 +1,1 @@
-ESM 262 - Computing for Environmental Science and Management
+Computing for Environmental Science and Management
