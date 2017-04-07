@@ -25,7 +25,7 @@ Fridays 08:30-11:30 in Bren 1424, **except**:
 
 | meeting | date   | instructor | topics                                   |
 | ------- | ------ | ---------- | ---------------------------------------- |
-| 1       | 07 Apr | JF         | software installation; Git; Markdown     |
+| 1       | 07 Apr | JF         | [software installation; Git; Markdown](wk01_git) |
 | 2       | 24 Apr | NT         | R introduction; Rmarkdown                |
 | 3       | 28 Apr | JF         | data ingest                              |
 | 4       | 05 May | JF         | data cleaning                            |
@@ -34,3 +34,4 @@ Fridays 08:30-11:30 in Bren 1424, **except**:
 | 7       | 26 May | NT         | software testing & documentation         |
 | 8       | 02 May | JF         | publishing interactive data; shiny       |
 | 9       | 09 Jun | JF         | spatial R                                |
+
