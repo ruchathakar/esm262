@@ -13,13 +13,12 @@ Topics will be presented in weekly 3-hour modules mixing lectures and hands-on e
 
 ### Class meetings
 
-Fridays 08:30-11:30 in Bren 1424, **except**:
+Fridays 08:30-11:30 AM in Bren 1424, **except**:
 
 - Friday 07 Apr meets in Bren 4016
-- no meetings during weeks of
-  - 10–14 Apr (NT out of town)
-  - 17–21 Apr (GP presentations)
-- Monday 24 Apr meets at 5:00-8:00 pm
+- Friday 14 Apr starts at 09:00
+- no meeting during the week of 17–21 Apr (GP presentations)
+- Monday 24 Apr meets at 5:00-8:00 PM
 
 ## Syllabus
 
