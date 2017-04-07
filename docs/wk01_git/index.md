@@ -9,7 +9,7 @@
 - [R](https://cran.r-project.org/)
 - [RStudio](https://www.rstudio.com/products/rstudio/download/)
 - [GitHub](https://github.com/join) (skip this step if you already have a GitHub account)
-  - Be sure to request a **student** account.
+  - Be sure to request a **student** account: this will allow you to create both private and public projects ("repositories") on GitHub
 
 ## The command line
 
@@ -19,4 +19,4 @@
 
 - [Software Carpentry tutorial: Version Control with Git](https://swcarpentry.github.io/git-novice/)
 
-
+![](https://imgs.xkcd.com/comics/git.png)
