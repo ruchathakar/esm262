@@ -1,3 +1,8 @@
+## Post-It™ protocol
+
+- <span style="color:green">Green:</span> I've finished the current exercise—no problems.
+- <span style="color:red">Red:</span> Help! I'm stuck!
+
 ## Software installation
 
 - [Git](https://git-scm.com/)
