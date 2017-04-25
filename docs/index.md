@@ -26,7 +26,7 @@ Fridays 08:30-11:30 AM in Bren 1424, **except**:
 | ---------- | ------ | ---------- | ---------------------------------------- |
 | 1          | 07 Apr | JF         | [software installation; Git; Markdown](wk01_git) |
 | 1 (cont'd) | 14 Apr | JF         | [software installation; Git; Markdown](wk01_git) (cont'd) |
-| 2          | 24 Apr | NT         | R introduction; Rmarkdown                |
+| 2          | 24 Apr | NT         | [R introduction; Rmarkdown](wk02_R)                |
 | 3          | 28 Apr | JF         | data ingest                              |
 | 4          | 05 May | JF         | data cleaning                            |
 | 5          | 12 May | NT         | visualization; ggplot                    |
