@@ -1,0 +1,23 @@
+---
+title: "Dividing"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#  examples
+
+```{r example}
+
+sun=read.table("sun.txt", header=T)
+range(sun$year)
+# divide into 3 period, beginning, middle, end
+sun$period = ifelse(sun$year %in% c(1944,1945, 1946),"start",
+              ifelse(sun$year %in%  c(1953,1954),"middle","end"))
+boxplot(sun$Kdown_direct~sun$period)
+
+```
