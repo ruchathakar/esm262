@@ -1,5 +1,5 @@
 ---
-title: "Data Wrangling, part 1"
+title: "Data Wrangling"
 author: "ESM 262 / Frew"
 date: "Spring 2017"
 output: html_document
@@ -39,6 +39,9 @@ library(tidyverse)
     - sample data
         - [`heights.csv`](https://raw.githubusercontent.com/hadley/r4ds/master/data/heights.csv)
         - [California gazetteer](https://geonames.usgs.gov/docs/stategaz/CA_Features_20170401.zip)
+
+### Data wrangling, part 2 --- transforming and relating
+
 - [12 Tidy data](http://r4ds.had.co.nz/tidy-data.html)
-
-
+- [5 Data Transformation](http://r4ds.had.co.nz/transform.html)
+- [13 Relational data](http://r4ds.had.co.nz/relational-data.html)
