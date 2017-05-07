@@ -28,10 +28,14 @@ Fridays 08:30-11:30 AM in Bren 1424, **except**:
 | 1 (cont'd) | 14 Apr | JF         | [software installation; Git; Markdown](wk01_git) (cont'd) |
 | 2          | 24 Apr | NT         | [R introduction; Rmarkdown](https://github.com/ucsb-bren/esm262/tree/master/docs/wk02_R) |
 | 3          | 28 Apr | JF         | [data wrangling part 1](wk03_wrangle)    |
-| 4          | 05 May | JF         | [data wrangling part 2](wk03_wrangle)                    |
+| 4          | 05 May | JF         | [data wrangling part 2](wk03_wrangle)    |
 | 5          | 12 May | NT         | visualization; ggplot                    |
 | 6          | 19 May | NT         | software engineering; R functions & modules |
 | 7          | 26 May | NT         | software testing & documentation         |
 | 8          | 02 May | JF         | publishing interactive data; shiny       |
 | 9          | 09 Jun | JF         | spatial R                                |
 
+### Assignments
+
+1. [R Markdown](https://ucsb-bren.github.io/esm262/wk02_R/assignment.pdf)
+2. [Data Ingest](https://ucsb-bren.github.io/esm262/wk03_wrangle/asst2.html)
