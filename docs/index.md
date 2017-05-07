@@ -37,5 +37,7 @@ Fridays 08:30-11:30 AM in Bren 1424, **except**:
 
 ### Assignments
 
-1. [R Markdown](https://ucsb-bren.github.io/esm262/wk02_R/assignment.pdf)
-2. [Data Ingest](https://ucsb-bren.github.io/esm262/wk03_wrangle/asst2.html)
+1. [R Markdown](wk02_R/assignment.pdf)
+2. [Data Ingest](wk03_wrangle/asst2.html)
+
+Notify us on [GauchoSpace](https://purl.org/ucsb-bren/ESM262-GS) after you've pushed your assignment to your GitHub repository.
