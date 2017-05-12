@@ -5,11 +5,11 @@ date: "Feb 2, 2016"
 output: html_document
 ---
 
-```{r setup, echo=FALSE}
+```{r setup, echo=FALSE, message=FALSE}
 #read in data
-thinshallow = read.table("../data/resthin.shallow.txt", header=T)
-thindeep = read.table("../data/resthin.deep.txt", header=T)
-clim=read.table("../data/sierraclim.txt",header=T)
+thinshallow = read.table("data/resthin.shallow.txt", header=T)
+thindeep = read.table("data/resthin.deep.txt", header=T)
+clim=read.table("data/sierraclim.txt",header=T)
 #make sure you have libraries
 library(dplyr)
 library(tidyr)
@@ -57,8 +57,7 @@ Thre are many ways to do this (see labs and titles) but **themes** give you alot
 
 I'll also show you the use of **expression** to write math symbols as labs
 
-More on all the options that can be found with
-[**themes**]{http://ggplot2.tidyverse.org/reference/theme.html}
+More on all the options that can be found with [**themes**](http://ggplot2.tidyverse.org/reference/theme.html)
 
 ```{r theme examples}
 # themes are used to control character of the plot
@@ -132,11 +131,14 @@ There are multiple ways to do this
 
 Lets start with color
 We can use a more interesting data set *thindeep*
+
 This dataset is results of a simulation experiment that looks at the impacts of different levels of forest
 thinning on water and carbon fluxes for a site in the California Sierra
-The site/plot is simulated for 10 years following the thinning experiment. The thinning experiment
-is repeated for different start dates within a 50 year historic climate record, for different
-thinning intensities and for different types of thinning that try to maximize or minimize sharing of water between trees
+
+*  The site/plot is simulated for 10 years following the thinning experiment. 
+*  The thinning experiment is repeated for different start dates within a 50 year historic climate record,
+*  And for different thinning intensities 
+*  And for different types of thinning that try to maximize or minimize sharing of water between trees
 
 
 
@@ -178,9 +180,11 @@ Brewer is really cool and comes up with nice options for you  and gives
 you a menu of color scheme for sequential vs divergin vs qualitative data and 
 has optins that are printer friendly, color blind friendly 
 -to check it out - 
-[colors that work]{http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3}
-[implemented R color palettes]{https://www.r-bloggers.com/choosing-colour-palettes-part-ii-educated-choices/} 
-[more R and colors]{http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/}
+
+* [colors that work](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+* [implemented R color palettes](https://www.r-bloggers.com/choosing-colour-palettes-part-ii-educated-choices/)
+* [more R and colors](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/)
+
 or for continues
 * *scale_color_continuous*
 
